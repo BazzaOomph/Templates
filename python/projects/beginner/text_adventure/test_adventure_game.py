@@ -5,7 +5,6 @@ with open("D:\\Coding\\Github\\Templates\\python\\projects\\beginner\\text_adven
     rooms = json.load(f)
 
 # Output: {'name': 'Bob', 'languages': ['English', 'Fench']}
-print(rooms)
 pprint.pprint(rooms)
 
 
