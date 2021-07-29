@@ -1,0 +1,17 @@
+{
+    "room_number": 1, 
+    "room_name": "Bus Stop", 
+    "room_description": "It is a bus stop. Buses stop here, from time to time.", 
+    "exits": {
+        "east": 2, 
+        "city": "New York", 
+        "state": "NY", 
+        "postalCode": "10021-3100"
+        }, 
+    "address": {
+        "streetAddress": "21 2nd Street", 
+        "city": "New York", 
+        "state": "NY", 
+        "postalCode": "10021-3100"
+        }, 
+    "children": []}
